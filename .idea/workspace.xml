@@ -20,19 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74bb86cb-918c-4b2b-9ca7-afb42d31586a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/checks.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.flake8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/app/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/app/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/app/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.dev.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.flake8" beforeDir="false" afterPath="$PROJECT_DIR$/app/.flake8" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +62,7 @@
       <workItem from="1654010750059" duration="914000" />
       <workItem from="1654011685260" duration="678000" />
       <workItem from="1654183196060" duration="1496000" />
-      <workItem from="1654781775284" duration="784000" />
+      <workItem from="1654781775284" duration="1263000" />
     </task>
     <servers />
   </component>
