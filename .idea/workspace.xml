@@ -20,24 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74bb86cb-918c-4b2b-9ca7-afb42d31586a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/app/calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/app/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/management/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/management/commands/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/management/commands/wait_for_db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/tests/test_command.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.github/workflows/checks.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/checks.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +66,7 @@
       <workItem from="1654781775284" duration="3435000" />
       <workItem from="1654825559934" duration="617000" />
       <workItem from="1654917113893" duration="2221000" />
-      <workItem from="1655019235260" duration="2448000" />
+      <workItem from="1655019235260" duration="4683000" />
     </task>
     <servers />
   </component>
@@ -109,9 +93,9 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="388" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1040/2560.355.1280.680@0.0.2560.1040" timestamp="1654183822155" />
-    <state x="1583" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1655020154256">
+    <state x="1583" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1655022625196">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="1583" y="229" width="672" height="678" key="search.everywhere.popup/0.0.2560.1040/2560.355.1280.680@0.0.2560.1040" timestamp="1655020154256" />
+    <state x="1583" y="229" width="672" height="678" key="search.everywhere.popup/0.0.2560.1040/2560.355.1280.680@0.0.2560.1040" timestamp="1655022625196" />
   </component>
 </project>
